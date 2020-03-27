@@ -13,7 +13,3 @@ Characterizing individuals hospitalized with  influenza in 2015-2019 and COVID-1
 - Protocol: 
 - Publications: 
 - Results explorer: 
-
-[Description (single paragraph)]
-
-[You can add other text at this point]
