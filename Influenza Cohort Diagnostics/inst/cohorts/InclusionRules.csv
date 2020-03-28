@@ -1,0 +1,23 @@
+"cohortName","ruleSequence","ruleName","cohortId"
+"COVID ID10 v1",0,"age >=18",6
+"COVID ID10 v1",1,"does not have hospitalization for influenza in the 6 months preceding admission",6
+"COVID ID11 v1",0,"age >=18",7
+"COVID ID11 v1",1,"has >=365d of prior observation",7
+"COVID ID11 v1",2,"does not have hospitalization for influenza in the 6 months preceding admission",7
+"COVID ID12 v1",0,"age >=18",8
+"COVID ID12 v1",1,"has >=365d of prior observation",8
+"COVID ID12 v1",2,"does not have hospitalization for influenza in the 6 months preceding admission",8
+"COVID ID5 v1",0,"age >=18",1
+"COVID ID5 v1",1,"has >=365d of prior observation",1
+"COVID ID5 v1",2,"does not have hospitalization for influenza in the 6 months preceding admission",1
+"COVID ID6 v1",0,"age >=18",2
+"COVID ID6 v1",1,"does not have hospitalization for influenza in the 6 months preceding admission",2
+"COVID ID7 v1",0,"age >=18",3
+"COVID ID7 v1",1,"has >=365d of prior observation",3
+"COVID ID7 v1",2,"does not have hospitalization for influenza in the 6 months preceding admission",3
+"COVID ID8 v1",0,"age >=18",4
+"COVID ID8 v1",1,"has >=365d of prior observation",4
+"COVID ID8 v1",2,"does not have hospitalization for influenza in the 6 months preceding admission",4
+"COVID ID9 v1",0,"age >=18",5
+"COVID ID9 v1",1,"has >=365d of prior observation",5
+"COVID ID9 v1",2,"does not have hospitalization for influenza in the 6 months preceding admission",5
