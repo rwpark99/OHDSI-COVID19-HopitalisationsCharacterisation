@@ -2,10 +2,3 @@
 "COVID ID1 v1",0,"age >=18",243
 "COVID ID1 v1",1,"has >=365d of prior observation",243
 "COVID ID1 v1",2,"does not have hospitalization for COVID19 in the 6 months preceding admission",243
-"COVID ID2 v1",0,"age >=18",244
-"COVID ID2 v1",1,"does not have hospitalization for COVID19 in the 6 months preceding admission",244
-"COVID ID3 v1",0,"age >=18",245
-"COVID ID3 v1",1,"has >=365d of prior observation",245
-"COVID ID3 v1",2,"does not have hospitalization for COVID19 in the 6 months preceding admission",245
-"COVID ID4 v1",0,"age >=18",246
-"COVID ID4 v1",1,"does not have hospitalization for COVID19 in the 6 months preceding admission",246
