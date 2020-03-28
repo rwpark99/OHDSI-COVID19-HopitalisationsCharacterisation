@@ -1,6 +1,0 @@
-"cohortName","ruleSequence","ruleName","cohortId"
-"[OHDSI Covid19] Persons hospitalized with COVID-19 broad w prior observation",0,"Age >= 18",4
-"[OHDSI Covid19] Persons hospitalized with COVID-19 broad w prior observation",1,"Prior Observation period >= 365",4
-"[OHDSI Covid19] Persons hospitalized with COVID-19 narrow",0,"Age >= 18",2
-"[OHDSI Covid19] Persons hospitalized with COVID-19 narrow w prior observation",0,"Age >= 18",1
-"[OHDSI Covid19] Persons hospitalized with COVID-19 narrow w prior observation",1,"Prior Observation period >= 365",1

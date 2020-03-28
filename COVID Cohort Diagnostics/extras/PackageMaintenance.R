@@ -25,12 +25,13 @@ shell("R CMD Rd2pdf ./ --output=extras/examplePackage.pdf")
 
 
 # Insert cohort definitions from ATLAS into package -----------------------
-ROhdsiWebApi::insertCohortDefinitionSetInPackage(fileName = "inst/settings/CohortsToCreate.csv",
+ROhdsiWebApi::insertCohortDefinitionSetInPackage(fileName = "inst/settings/CohortsToCreateCOVID.csv",
                                                  baseUrl = "http://10.80.192.24:8080/WebAPI",
                                                  insertTableSql = TRUE,
                                                  insertCohortCreationR = TRUE,
                                                  generateStats = TRUE,
                                                  packageName = "CovidHospCohortDiag")
+
 
 # Store environment in which the study was executed -----------------------
 OhdsiRTools::insertEnvironmentSnapshotInPackage("examplePackage")
